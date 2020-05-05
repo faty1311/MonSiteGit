@@ -1,0 +1,3 @@
+cd commande pour le deplacement entre les dossiers
+cp pour copier un fichier ou un repertoire
+ls pour afficher les contenu d'un fichier 
